@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "info": {
+      "name": "Laptop",
+      "price": 1200
+    },
+    "tags": "electronics, office"
+  },
+  {
+    "id": 2,
+    "info": {
+      "name": "Chair",
+      "price": 300
+    },
+    "tags": "furniture, home"
+  },
+  {
+    "id": 3,
+    "info": {
+      "name": "Monitor",
+      "price": 500
+    },
+    "tags": "electronics"
+  },
+  {
+    "id": 4,
+    "info": {
+      "name": "Desk",
+      "price": 700
+    },
+    "tags": "furniture, office"
+  },
+  {
+    "id": 5,
+    "info": {
+      "name": "Mouse",
+      "price": 50
+    },
+    "tags": "electronics, accessories"
+  },
+  {
+    "id": 6,
+    "info": {
+      "name": "Keyboard",
+      "price": 100
+    },
+    "tags": "electronics, accessories"
+  },
+  {
+    "id": 7,
+    "info": {
+      "name": "Office Lamp",
+      "price": 40
+    },
+    "tags": "furniture, office"
+  },
+  {
+    "id": 8,
+    "info": {
+      "name": "Headphones",
+      "price": 150
+    },
+    "tags": "electronics, accessories"
+  },
+  {
+    "id": 9,
+    "info": {
+      "name": "Bookshelf",
+      "price": 200
+    },
+    "tags": "furniture, home"
+  },
+  {
+    "id": 10,
+    "info": {
+      "name": "Web Camera",
+      "price": 80
+    },
+    "tags": "electronics, accessories"
+  },
+  {
+    "id": 11,
+    "info": {
+      "name": "Running Shoes",
+      "price": 120
+    },
+    "tags": "clothing, sports"
+  },
+  {
+    "id": 12,
+    "info": {
+      "name": "Apple",
+      "price": 2
+    },
+    "tags": "food, groceries"
+  },
+  {
+    "id": 13,
+    "info": {
+      "name": "Novel",
+      "price": 15
+    },
+    "tags": "books, entertainment"
+  },
+  {
+    "id": 14,
+    "info": {
+      "name": "Tennis Racket",
+      "price": 85
+    },
+    "tags": "sports, equipment"
+  },
+  {
+    "id": 15,
+    "info": {
+      "name": "T-Shirt",
+      "price": 20
+    },
+    "tags": "clothing, casual"
+  }
+]

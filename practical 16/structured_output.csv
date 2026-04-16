@@ -1,0 +1,16 @@
+id,name,price,tags
+1,Laptop,1200,"electronics, office"
+2,Chair,300,"furniture, home"
+3,Monitor,500,electronics
+4,Desk,700,"furniture, office"
+5,Mouse,50,"electronics, accessories"
+6,Keyboard,100,"electronics, accessories"
+7,Office Lamp,40,"furniture, office"
+8,Headphones,150,"electronics, accessories"
+9,Bookshelf,200,"furniture, home"
+10,Web Camera,80,"electronics, accessories"
+11,Running Shoes,120,"clothing, sports"
+12,Apple,2,"food, groceries"
+13,Novel,15,"books, entertainment"
+14,Tennis Racket,85,"sports, equipment"
+15,T-Shirt,20,"clothing, casual"
